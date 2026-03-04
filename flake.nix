@@ -26,6 +26,7 @@
             git
             nodejs_22
             openssh
+            ghp-import
           ];
         };
       });
